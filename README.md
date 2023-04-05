@@ -1,6 +1,6 @@
 # Linear calculations
 
-The purpose of this exercise is to check if you understand conditional statements.
+The purpose of this exercise is to check if you understand data types and operations with variables.
 
 Duration: **15** minutes
 
