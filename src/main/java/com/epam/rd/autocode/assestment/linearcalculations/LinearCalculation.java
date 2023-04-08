@@ -19,8 +19,11 @@ public class LinearCalculation {
      * @return the distance
      */
     public static double findCarsDistance(double car1Speed, double car2Speed, double initialDistance, double time) {
-        // TODO Place your code here
-        return 0;
+        double totalSpeed = car1Speed + car2Speed;
+             double generalWay = time * totalSpeed;
+              double finalDistance = initialDistance + generalWay;
+              return finalDistance;
+       // return 0;
     }
 
     public static void main(String[] args) {
